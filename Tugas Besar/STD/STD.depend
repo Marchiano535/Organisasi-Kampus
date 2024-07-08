@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704202084 source:d:\tugas besar\std\main.cpp
+	"OrganisasiKampus.h"
+	<iostream>
+	<limits>
+
+1704202006 d:\tugas besar\std\organisasikampus.h
+	<iostream>
+
+1704202032 source:d:\tugas besar\std\organisasikampus.cpp
+	"OrganisasiKampus.h"
+	<iostream>
+	<limits>
+
